@@ -163,6 +163,11 @@
     "name": "hakuamesan",
     "text": "Hellooo",
     "cart": 3
+  },
+  {
+    "name": "S-Shobanaa",
+    "text": "Salute"
+    "cart": "2"
   }
 
 ]
